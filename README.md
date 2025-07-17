@@ -8,6 +8,7 @@ Este repositorio contiene los archivos necesarios para traducir **WPS Office 12.
 
 ## 📝 Requisitos previos
 
+- El idioma de la distribución debe ser español España
 - Instalador de **WPS Office** para tu distribución Linux (descárgalo desde el [sitio oficial chino (ver. 12.1)](https://www.wps.cn) ó deste el [sitio official global (ver. 11.xx)](https://www.wps.com)
 - Permisos de superusuario (`sudo`)
 - Este repositorio clonado o descargado localmente
