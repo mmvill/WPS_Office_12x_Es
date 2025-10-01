@@ -31,6 +31,13 @@ Este repositorio contiene los archivos necesarios para traducir **WPS Office 12.
    ```bash
    sudo cp -r mui/* /opt/kingsoft/wps-office/office6/mui/
    ```
+3. 🏠 Copiar la carpeta Kingsoft al directorio local del usuario
+
+   Esto permite que los archivos de idioma también estén disponibles en tu espacio de usuario:
+
+   ```bash
+   cp -r Kingsoft ~/.local/
+   ```
 
 ## 💾 Instalación de WPS Office
 
