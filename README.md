@@ -9,7 +9,7 @@ Este repositorio contiene los archivos necesarios para traducir **WPS Office 12.
 ## 📝 Requisitos previos
 
 - El idioma de la distribución debe ser español España
-- Instalador de **WPS Office** para tu distribución Linux (descárgalo desde el [sitio oficial chino (ver. 12.1)](https://www.wps.cn) ó deste el [sitio official global (ver. 11.xx)](https://www.wps.com)
+- Instalador de **WPS Office** para tu distribución Linux (descárgalo desde el [sitio oficial chino (ver. 12.x)](https://www.wps.cn) ó deste el [sitio official global (ver. 11.x)](https://www.wps.com)
 - Permisos de superusuario (`sudo`)
 - Este repositorio clonado o descargado localmente
 
@@ -70,32 +70,31 @@ Este repositorio contiene los archivos necesarios para traducir **WPS Office 12.
       ```
 
 ---
-## 🚀 Resultado final
-
-Una vez terminado el proceso, al iniciar WPS Office, la interfaz estará en español 🇪🇸 ✨
-
-   ![imagen](https://github.com/user-attachments/assets/686b8367-afbb-4487-a999-e61eef9d74c7)
-
-   ![imagen](https://github.com/user-attachments/assets/6898a1e5-2caf-48a8-9136-a05217f24906)
-
-   ![imagen](https://github.com/user-attachments/assets/d5ea0f02-e6d9-4b36-a739-fabd37626cd3)
-
 # Aviso:
 
-      -Las pantallas individuales si estaran en español (Presentation, Spreadsheets, Write y PDF), pero la pantalla incial siempre estara en ingles.
-      -Se recomienda cambiar la configuracion de comportamiento de la palicacion para que WPS gestione las aplicaciones individualmente:
+- Las pantallas individuales si estaran en español (Presentation, Spreadsheets, Write y PDF), pero la pantalla incial siempre estara en ingles.
+- Se recomienda cambiar la configuracion de comportamiento de la palicacion para que WPS gestione las aplicaciones individualmente:
       
-      ![imagen](https://github.com/user-attachments/assets/21366d80-7925-4ecd-8552-475dde11bf1f)
-      ![imagen](https://github.com/user-attachments/assets/d7f70a20-3b2d-4310-b605-8f38e8d0d75b)
-      ![imagen](https://github.com/user-attachments/assets/5f0161b2-6342-4545-a04d-9f48cf0c7192)
-      ![imagen](https://github.com/user-attachments/assets/5c05053b-5320-4324-b7e9-1fb204233ebb)
+![imagen](https://github.com/user-attachments/assets/21366d80-7925-4ecd-8552-475dde11bf1f)
+![imagen](https://github.com/user-attachments/assets/d7f70a20-3b2d-4310-b605-8f38e8d0d75b)
+![imagen](https://github.com/user-attachments/assets/5f0161b2-6342-4545-a04d-9f48cf0c7192)
+![imagen](https://github.com/user-attachments/assets/5c05053b-5320-4324-b7e9-1fb204233ebb)
       
-      -Cierrar todas las ventanas de WPS y abrir cualquier aplicacion, al presionar "+" abre un nuevo documento y ya la interfaz esta en español
+- Cierrar todas las ventanas de WPS y abrir cualquier aplicacion, al presionar "+" abre un nuevo documento.
       
-      ![imagen](https://github.com/user-attachments/assets/c43619fb-f955-417d-bba3-42d7a78a84b0)
+![imagen](https://github.com/user-attachments/assets/c43619fb-f955-417d-bba3-42d7a78a84b0)
 
----
+## 🚀 Resultado final
 
+Una vez terminado el procesola interfaz estará en español 🇪🇸 ✨
+
+![imagen](https://github.com/user-attachments/assets/686b8367-afbb-4487-a999-e61eef9d74c7)
+
+![imagen](https://github.com/user-attachments/assets/6898a1e5-2caf-48a8-9136-a05217f24906)
+
+![imagen](https://github.com/user-attachments/assets/d5ea0f02-e6d9-4b36-a739-fabd37626cd3)
+
+___
 ## 🧠 Corrección ortográfica en español (Diccionarios)
 
 Después de instalar WPS Office, puedes habilitar la corrección ortográfica para varios dialectos del español usando los diccionarios que ya están incluidos en este repositorio.
@@ -135,6 +134,6 @@ Este repositorio incluye múltiples carpetas con diccionarios listos para usar, 
    ![imagen](https://github.com/user-attachments/assets/ea83a4c3-27b0-4667-ac46-f00c28c77b0e)
 ---
 
-🙌 Créditos
+🙌 
 
-   Este proyecto fue creado para simplificar el proceso de localización de WPS Office en entornos Linux. Si te resultó útil, no dudes en dejar una estrella ⭐ en el repositorio o compartirlo con otros usuarios.
+   Este tutorial fue creado para instalar WPS Office en español. Si te resultó útil, no dudes en dejar una estrella ⭐ en el repositorio o compartirlo con otros usuarios.
