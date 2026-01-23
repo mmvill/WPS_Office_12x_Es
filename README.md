@@ -1,4 +1,4 @@
-# 🇪🇸 WPS Office 12.1 en Español para Linux
+# WPS Office 12.1 en Español para Linux
 
 Este repositorio contiene los archivos necesarios para traducir **WPS Office 12.1** al idioma **español** en sistemas **Linux**. Incluye las carpetas `es_ES` y `es_MX` listas para integrarse con WPS Office antes de su instalación.
 
@@ -63,7 +63,7 @@ Este repositorio contiene los archivos necesarios para traducir **WPS Office 12.
 ___
 ## 🚀 Resultado final
 
-Una vez terminado el procesola interfaz estará en español 🇪🇸 ✨
+Una vez terminado el proceso la interfaz estará en español ✨
 
 ![imagen](https://github.com/user-attachments/assets/686b8367-afbb-4487-a999-e61eef9d74c7)
 
