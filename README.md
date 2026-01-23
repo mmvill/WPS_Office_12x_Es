@@ -78,10 +78,10 @@ Después de instalar WPS Office, puedes habilitar la corrección ortográfica pa
 
 5. 🧩 **Activa la corrección ortográfica en español**
 
-   Dentro de WPS Writer:
    ![imagen](https://github.com/user-attachments/assets/a297b315-32e8-42ba-a1cf-3d1383ac9a13)
 
    ![imagen](https://github.com/user-attachments/assets/ea83a4c3-27b0-4667-ac46-f00c28c77b0e)
+   
 ---
 
 🙌 
